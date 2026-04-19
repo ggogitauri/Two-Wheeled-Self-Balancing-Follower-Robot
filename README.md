@@ -2,7 +2,7 @@
 Self-Balancing Robot based on Arduino Uno, with extra features
 
 The robot is capable of staying upright for as long as 30 minutes within a perimeter of 50x50cm.
-It can turn in the direction that it sees an object, with a detection range of 30cm. It will then maintain a distance of ~15cm away from the object.
+It can turn in the direction that it sees an object, with a detection range of 40cm. It will then maintain a distance of ~15cm away from the object.
 
 Hardware:
 Arduino UNO R3
