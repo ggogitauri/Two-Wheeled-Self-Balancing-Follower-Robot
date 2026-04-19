@@ -17,7 +17,7 @@ Material:
 As well as the supports on the sides, which are just transparent for aesthetics.
 Must admit, that hot glue is an inferior solution compared to screws, as the frame comes loose here and there after a reasonable amount of falls.
 
-Code (evey revision has been uploaded here):
+Code (Every revision has been uploaded here):
 I included all the major stages in the development and implementation of all features.
 
 - There are three PID algorithms, each serving an important role:
